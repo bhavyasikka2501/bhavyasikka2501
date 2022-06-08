@@ -9,9 +9,9 @@
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shauryakohli">
+    <img src="https://komarev.com/ghpvc/?username=bhavyasikka2501">
 </a>
-<a href="https://github.com/bhavyasikka2501?tab=followers"><img src="https://img.shields.io/github/followers/shauryakohli?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/bhavyasikka2501?tab=followers"><img src="https://img.shields.io/github/followers/bhavyasikka2501?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
