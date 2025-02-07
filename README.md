@@ -59,11 +59,6 @@
  <br>
   <b>Note:</b> Most Used Languages is only a metric of the languages my public Github code consists of and doesn't reflect skill level.
 <br>
- <h3><b>Productivity Stats</h3></p>
-<a href="https://github.com/bhavyasikka2501/github-readme-activity-graph"><img alt="Bhavya Sikka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhavyasikka2501&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-
-
 
 
 
