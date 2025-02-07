@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-## Hi I am Bhavya Sikka. I'm a pre-final Year CSE Student from  VIT Vellore
+## Hi I am Bhavya Sikka. I'm a Graduate from  VIT Vellore
 
 <img align="right" alt="GIF" height="200px" src="https://tenor.com/view/elbformat-computer-science-hamburg-gif-23899063.gif" />
 
@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more Java and brush up my DSA skills
 - ⚡ Fun fact: I love listening music
 ---
 
